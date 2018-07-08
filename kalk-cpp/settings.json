@@ -1,0 +1,15 @@
+{
+	"minMatrixDimension": 1,
+    "maxMatrixDimension": 10,
+    "defaultRowsDimension": 4,
+    "defaultColumnsDimension": 7,
+    "defaultSquareDimension": 6,
+    "random": {
+        "min": -10,
+        "max": 10
+    },
+    "transform": {
+        "min": -100,
+        "max": 100
+    }
+}
