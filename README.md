@@ -4,12 +4,16 @@ Kalk is the final project developed for the **Object Oriented Programming** Cour
 It focuses on linear algebra data structures and operations. Multiple types of matrices can be combined,
 and each of them has its own custom methods.
 
+![Application screenshot](img/application.jpg)
+
 ## Description
 
 Kalk is structured into two different subprojects. Both heavily implement templating, inheritance, polymorphism
-and **S.O.L.I.D.** principles, as required by the specifics, which can be found here (they are only available in Italian).
+and **S.O.L.I.D.** principles, as required by the specifics, which can be found [here](specificaProgetto.pdf) (they are only available in Italian).
 The custom library that handles linear algebra operations and data structures is separated from the rest of the code and
 is heavily commented.
+
+Please check out the [essay](relazione.pdf) that discusses the project in great detail and explains its class hierarchy.
 
 ### kalk-cpp
 
@@ -33,5 +37,7 @@ While developing this project, the focus was on the following requirements:
 - OOP
 - reactive events (thanks to `Qt::connect`)
 - code readability
+
+----------------------------------------------------------------
 
 This project was evaluated 2/2, thus allowing me to complete the OOP University Course with a Mark of 30/30.
